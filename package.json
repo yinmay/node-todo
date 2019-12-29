@@ -1,0 +1,20 @@
+{
+  "name": "node_todo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^7.0.0",
+    "ts-node-dev": "^1.0.0-pre.43"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.9",
+    "@types/react-dom": "^16.9.2",
+    "jext": "^0.4.3",
+    "typescript": "^3.6.4"
+  }
+}
