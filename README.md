@@ -1,2 +1,2 @@
 # node-todo
-a small todo list project with node
+a small todo list project with node, typescript
